@@ -570,6 +570,25 @@ main {
   font-weight: 500;
 }
 
+/* CV box under Languages */
+.cv-box {
+  margin-top: 40px;
+  padding-top: 28px;
+  border-top: 1px solid rgba(0, 0, 0, 0.10);
+}
+
+.cv-title {
+  font-size: 18px;
+  font-weight: 600;
+  margin: 0 0 10px;
+}
+
+.cv-text {
+  font-size: 14px;
+  line-height: 1.6;
+  margin: 0 0 18px;
+}
+
 /* Contact */
 .contact-info {
     display: grid;
