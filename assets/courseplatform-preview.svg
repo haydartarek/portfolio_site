@@ -1,0 +1,64 @@
+<svg width="1280" height="720" viewBox="0 0 1280 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="720" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#F7F4F0"/>
+      <stop offset="1" stop-color="#EAE3DB"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="900" y2="620" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.96"/>
+      <stop offset="1" stop-color="#EEE7DE" stop-opacity="0.96"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="320" y2="180" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFFDFC"/>
+      <stop offset="1" stop-color="#F1EAE2"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="720" fill="url(#bg)"/>
+  <rect x="0" y="0" width="1280" height="80" fill="#F0E9E1"/>
+  <rect x="26" y="24" width="176" height="32" rx="10" fill="#433A33"/>
+  <text x="48" y="45" fill="#F8F4EF" font-size="18" font-family="Arial, sans-serif" font-weight="700">CoursePlatform</text>
+
+  <rect x="26" y="108" width="248" height="586" rx="18" fill="#E6DED5"/>
+  <rect x="48" y="140" width="196" height="40" rx="10" fill="#DAD0C5"/>
+  <rect x="48" y="196" width="196" height="40" rx="10" fill="#DAD0C5"/>
+  <rect x="48" y="252" width="196" height="40" rx="10" fill="#DAD0C5"/>
+  <rect x="48" y="308" width="196" height="40" rx="10" fill="#DAD0C5"/>
+
+  <rect x="304" y="108" width="950" height="586" rx="22" fill="url(#panel)" stroke="#CFC3B6"/>
+
+  <rect x="340" y="146" width="280" height="144" rx="16" fill="url(#card)" stroke="#D6C9BC"/>
+  <rect x="352" y="164" width="120" height="14" rx="7" fill="#C3B3A3"/>
+  <rect x="352" y="188" width="220" height="12" rx="6" fill="#D4C8BC"/>
+  <rect x="352" y="210" width="172" height="12" rx="6" fill="#D4C8BC"/>
+  <rect x="352" y="238" width="130" height="26" rx="10" fill="#4C433B"/>
+
+  <rect x="640" y="146" width="280" height="144" rx="16" fill="url(#card)" stroke="#D6C9BC"/>
+  <rect x="652" y="164" width="136" height="14" rx="7" fill="#C3B3A3"/>
+  <rect x="652" y="188" width="220" height="12" rx="6" fill="#D4C8BC"/>
+  <rect x="652" y="210" width="184" height="12" rx="6" fill="#D4C8BC"/>
+  <rect x="652" y="238" width="124" height="26" rx="10" fill="#4C433B"/>
+
+  <rect x="940" y="146" width="278" height="248" rx="16" fill="url(#card)" stroke="#D6C9BC"/>
+  <rect x="956" y="166" width="180" height="14" rx="7" fill="#C3B3A3"/>
+  <rect x="956" y="192" width="228" height="12" rx="6" fill="#D4C8BC"/>
+  <rect x="956" y="214" width="228" height="12" rx="6" fill="#D4C8BC"/>
+  <rect x="956" y="236" width="228" height="12" rx="6" fill="#D4C8BC"/>
+  <rect x="956" y="258" width="228" height="12" rx="6" fill="#D4C8BC"/>
+  <rect x="956" y="286" width="200" height="84" rx="12" fill="#E6DBD0"/>
+
+  <rect x="340" y="314" width="580" height="346" rx="16" fill="url(#card)" stroke="#D6C9BC"/>
+  <rect x="360" y="336" width="240" height="14" rx="7" fill="#C3B3A3"/>
+  <rect x="360" y="364" width="540" height="42" rx="12" fill="#E9DED3"/>
+  <rect x="360" y="418" width="540" height="42" rx="12" fill="#E9DED3"/>
+  <rect x="360" y="472" width="540" height="42" rx="12" fill="#E9DED3"/>
+  <rect x="360" y="526" width="540" height="42" rx="12" fill="#E9DED3"/>
+  <rect x="360" y="586" width="176" height="38" rx="12" fill="#4C433B"/>
+
+  <rect x="940" y="414" width="278" height="246" rx="16" fill="url(#card)" stroke="#D6C9BC"/>
+  <rect x="958" y="436" width="168" height="14" rx="7" fill="#C3B3A3"/>
+  <rect x="958" y="466" width="242" height="28" rx="10" fill="#E9DED3"/>
+  <rect x="958" y="506" width="242" height="28" rx="10" fill="#E9DED3"/>
+  <rect x="958" y="546" width="242" height="28" rx="10" fill="#E9DED3"/>
+  <rect x="958" y="592" width="140" height="34" rx="10" fill="#4C433B"/>
+</svg>
