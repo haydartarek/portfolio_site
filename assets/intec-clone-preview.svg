@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">Intec Clone website preview</title>
+  <desc id="desc">Stylized preview of a modern education website.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#14213d"/>
+      <stop offset="1" stop-color="#315c8c"/>
+    </linearGradient>
+    <linearGradient id="hero" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#f7f3ed"/>
+      <stop offset="1" stop-color="#e5eef7"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="720" rx="28" fill="url(#bg)"/>
+  <rect x="54" y="46" width="1092" height="628" rx="22" fill="#fff" opacity=".98"/>
+  <rect x="54" y="46" width="1092" height="72" rx="22" fill="#f8fafc"/>
+  <circle cx="90" cy="82" r="8" fill="#ff746c"/><circle cx="116" cy="82" r="8" fill="#ffc45c"/><circle cx="142" cy="82" r="8" fill="#55c88f"/>
+  <text x="190" y="90" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#1f3552">INTEC BRUSSELS</text>
+  <rect x="800" y="68" width="84" height="24" rx="12" fill="#dbe6f2"/><rect x="904" y="68" width="84" height="24" rx="12" fill="#dbe6f2"/><rect x="1008" y="62" width="96" height="36" rx="18" fill="#315c8c"/>
+  <rect x="78" y="142" width="1044" height="286" rx="18" fill="url(#hero)"/>
+  <text x="122" y="228" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#315c8c">BUILD YOUR DIGITAL FUTURE</text>
+  <text x="122" y="286" font-family="Arial, sans-serif" font-size="48" font-weight="800" fill="#172941">Practical IT training</text>
+  <text x="122" y="338" font-family="Arial, sans-serif" font-size="48" font-weight="800" fill="#172941">for modern careers.</text>
+  <rect x="122" y="366" width="168" height="42" rx="21" fill="#315c8c"/>
+  <circle cx="930" cy="280" r="108" fill="#315c8c" opacity=".14"/><circle cx="930" cy="280" r="72" fill="#315c8c" opacity=".26"/><path d="M884 294h92M930 248v92" stroke="#315c8c" stroke-width="16" stroke-linecap="round"/>
+  <g fill="#eef3f8">
+    <rect x="78" y="456" width="320" height="174" rx="18"/><rect x="440" y="456" width="320" height="174" rx="18"/><rect x="802" y="456" width="320" height="174" rx="18"/>
+  </g>
+  <g fill="#315c8c"><circle cx="126" cy="504" r="22"/><circle cx="488" cy="504" r="22"/><circle cx="850" cy="504" r="22"/></g>
+  <g fill="#8295aa"><rect x="112" y="548" width="214" height="16" rx="8"/><rect x="112" y="580" width="244" height="12" rx="6"/><rect x="474" y="548" width="214" height="16" rx="8"/><rect x="474" y="580" width="244" height="12" rx="6"/><rect x="836" y="548" width="214" height="16" rx="8"/><rect x="836" y="580" width="244" height="12" rx="6"/></g>
+</svg>

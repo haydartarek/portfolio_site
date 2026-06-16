@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">Layan Garage BV website preview</title>
+  <desc id="desc">Stylized preview of a premium automotive garage website.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080b10"/><stop offset="1" stop-color="#222a35"/></linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#d4aa54"/><stop offset="1" stop-color="#f3d78c"/></linearGradient>
+  </defs>
+  <rect width="1200" height="720" rx="28" fill="url(#bg)"/>
+  <rect x="54" y="46" width="1092" height="628" rx="22" fill="#10151c"/>
+  <rect x="54" y="46" width="1092" height="76" rx="22" fill="#0b0f14"/>
+  <circle cx="90" cy="84" r="8" fill="#ff746c"/><circle cx="116" cy="84" r="8" fill="#ffc45c"/><circle cx="142" cy="84" r="8" fill="#55c88f"/>
+  <text x="194" y="92" font-family="Arial, sans-serif" font-size="26" font-weight="800" fill="#f3d78c">LAYAN GARAGE BV</text>
+  <g fill="#68717d"><rect x="812" y="72" width="76" height="18" rx="9"/><rect x="912" y="72" width="76" height="18" rx="9"/><rect x="1012" y="64" width="96" height="34" rx="17"/></g>
+  <rect x="78" y="146" width="1044" height="304" rx="18" fill="#181f28"/>
+  <path d="M712 362c32-98 96-150 196-158 88-6 154 33 198 118l-18 60H730z" fill="#303a46"/>
+  <path d="M758 326c44-62 97-92 160-92 60 0 108 25 146 76l-88 5-68-42-82 52z" fill="#77818d"/>
+  <circle cx="804" cy="378" r="42" fill="#0b0f14" stroke="#d4aa54" stroke-width="8"/><circle cx="1010" cy="378" r="42" fill="#0b0f14" stroke="#d4aa54" stroke-width="8"/>
+  <text x="122" y="232" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#d4aa54">PRECISION. TRUST. PERFORMANCE.</text>
+  <text x="122" y="292" font-family="Arial, sans-serif" font-size="52" font-weight="800" fill="#f5f2eb">Your car deserves</text>
+  <text x="122" y="348" font-family="Arial, sans-serif" font-size="52" font-weight="800" fill="#f5f2eb">expert care.</text>
+  <rect x="122" y="382" width="176" height="42" rx="21" fill="url(#gold)"/>
+  <g fill="#181f28"><rect x="78" y="478" width="320" height="152" rx="18"/><rect x="440" y="478" width="320" height="152" rx="18"/><rect x="802" y="478" width="320" height="152" rx="18"/></g>
+  <g fill="#d4aa54"><circle cx="126" cy="526" r="20"/><circle cx="488" cy="526" r="20"/><circle cx="850" cy="526" r="20"/></g>
+  <g fill="#7e8894"><rect x="112" y="566" width="218" height="14" rx="7"/><rect x="112" y="596" width="246" height="10" rx="5"/><rect x="474" y="566" width="218" height="14" rx="7"/><rect x="474" y="596" width="246" height="10" rx="5"/><rect x="836" y="566" width="218" height="14" rx="7"/><rect x="836" y="596" width="246" height="10" rx="5"/></g>
+</svg>
